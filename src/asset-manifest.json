@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7bded55.css",
+    "main.js": "/static/js/main.cb95147c.js",
+    "static/js/787.2a3276af.chunk.js": "/static/js/787.2a3276af.chunk.js",
+    "static/media/miffy_bg_9.jpg": "/static/media/miffy_bg_9.88267f43c9933679b151.jpg",
+    "static/media/miffy3.png": "/static/media/miffy3.6603171ceebaeb1bae38.png",
+    "static/media/miffy_pattern.png": "/static/media/miffy_pattern.a9ddce5d2cb148c56df4.png",
+    "index.html": "/index.html",
+    "main.f7bded55.css.map": "/static/css/main.f7bded55.css.map",
+    "main.cb95147c.js.map": "/static/js/main.cb95147c.js.map",
+    "787.2a3276af.chunk.js.map": "/static/js/787.2a3276af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7bded55.css",
+    "static/js/main.cb95147c.js"
+  ]
+}
